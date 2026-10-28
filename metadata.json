@@ -1,0 +1,6 @@
+{
+  "name": "Women Safety Detection System",
+  "description": "NLP-powered real-time women safety detection system with speech distress recognition, text harassment analysis, threat classification, and automated emergency dispatch.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
